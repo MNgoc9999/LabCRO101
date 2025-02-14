@@ -1,9 +1,9 @@
 
 import react from "react";
 
-import LoginScreen from "./lab4bai3 (1)";
+import Lab5 from "./lab5bai2";
 const App = () => {
-  return <LoginScreen></LoginScreen>;
+  return <Lab5></Lab5>;
 };
 
 export default App;
